@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/Aimen_Sajjad_Portfolio%20(2).html"
+    }
+  ]
+}
